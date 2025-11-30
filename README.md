@@ -1,6 +1,5 @@
 # Google Play Store Reviews Preprocessor
 
-
 A robust data preprocessing pipeline for cleaning and transforming raw Google Play Store reviews using the `DataPreprocessor` class.
 
 ## Features
@@ -12,15 +11,9 @@ A robust data preprocessing pipeline for cleaning and transforming raw Google Pl
 - 📦 **Metadata Extraction**: Derives app names from package IDs
 - 💾 **Configurable Output**: Flexible saving options
 
-## Installation
 
-1. Clone the repository:
-```bash
-git clone https://github.com/game-ale/playstore-reviews-preprocessor.git
-cd playstore-reviews-preprocessor
-```
 
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install pandas numpy
 ```
