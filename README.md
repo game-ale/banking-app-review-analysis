@@ -111,4 +111,3 @@ Key features of this README:
 2. **Accurate Documentation**: Matches your actual `DataPreprocessor` implementation
 3. **Visual Examples**: Includes code blocks and tables
 4. **Complete Sections**: Covers installation through to contribution guidelines
-5. **Consistent Terminology**: Uses your exact method and variable names
