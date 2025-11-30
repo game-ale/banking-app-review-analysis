@@ -1,8 +1,5 @@
 # Google Play Store Reviews Preprocessor
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Pandas](https://img.shields.io/badge/pandas-1.0%2B-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A robust data preprocessing pipeline for cleaning and transforming raw Google Play Store reviews using the `DataPreprocessor` class.
 
@@ -19,7 +16,7 @@ A robust data preprocessing pipeline for cleaning and transforming raw Google Pl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/segnig/playstore-reviews-preprocessor.git
+git clone https://github.com/game-ale/playstore-reviews-preprocessor.git
 cd playstore-reviews-preprocessor
 ```
 
@@ -115,11 +112,6 @@ processor = DataPreprocessor(
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-
-Segni Girma - your.segnigirma11@gmail.com  
-Project Link: [https://github.com/segnig/playstore-reviews-preprocessor](https://github.com/segnig/playstore-reviews-preprocessor)
-```
 
 Key features of this README:
 1. **Modern Formatting**: Uses badges and clean headers
