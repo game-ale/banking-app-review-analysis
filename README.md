@@ -118,7 +118,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 
 Segni Girma - your.segnigirma11@gmail.com  
-Project Link: [https://github.com/segnig/playstore-reviews-preprocessor](https://github.com/segnig/playstore-reviews-preprocessor)
+Project Link: [https://github.com/game-ale/playstore-reviews-preprocessor](https://github.com/game-ale/playstore-reviews-preprocessor)
 ```
 
 Key features of this README:
