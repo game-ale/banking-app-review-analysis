@@ -1,7 +1,6 @@
 
 # Google Play Store Reviews Preprocessor
 
-
 A robust data preprocessing pipeline for cleaning and transforming raw Google Play Store reviews using the `DataPreprocessor` class.
 
 ## Features
@@ -12,7 +11,6 @@ A robust data preprocessing pipeline for cleaning and transforming raw Google Pl
 - 📛 **Column Standardization**: Consistent naming conventions
 - 📦 **Metadata Extraction**: Derives app names from package IDs
 - 💾 **Configurable Output**: Flexible saving options
-
 
 
 1. Install dependencies:
@@ -106,6 +104,9 @@ processor = DataPreprocessor(
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
 
 
 Key features of this README:
