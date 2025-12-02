@@ -1,8 +1,6 @@
 # Google Play Store Reviews Preprocessor
 
-![Python](https://img.shields.io/badge/python-3.7%2B-blue)
-![Pandas](https://img.shields.io/badge/pandas-1.0%2B-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 
 A robust data preprocessing pipeline for cleaning and transforming raw Google Play Store reviews using the `DataPreprocessor` class.
 
@@ -17,10 +15,7 @@ A robust data preprocessing pipeline for cleaning and transforming raw Google Pl
 
 ## Installation
 
-1. Clone the repository:
-
-
-2. Install dependencies:
+1. Install dependencies:
 ```bash
 pip install pandas numpy
 ```
@@ -111,6 +106,9 @@ processor = DataPreprocessor(
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
 
 
 Key features of this README:
